@@ -1,4 +1,4 @@
-import styles from "./sidebarfooter.module.css";
+import styles from "./SidebarFooter.module.css";
 
 function SidebarFooter() {
   return (
