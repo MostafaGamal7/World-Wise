@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-10-21T11:34:06.809Z",
+      "notes": "YUP",
+      "position": {
+        "lat": "29.878755346037977",
+        "lng": "31.333007812500004"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-10-21T13:35:59.601Z",
+      "notes": "",
+      "position": {
+        "lat": "29.49698759653577",
+        "lng": "29.707031250000004"
+      },
+      "id": 73930389
+    },
+    {
+      "cityName": "Mersa Matruh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2023-10-22T14:49:13.000Z",
+      "notes": "",
+      "position": {
+        "lat": "29.973970240516614",
+        "lng": "26.279296875000004"
+      },
+      "id": 73930390
+    },
+    {
+      "cityName": "Dudley",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-10-23T21:37:06.598Z",
+      "notes": "Send this to my hitman",
+      "position": {
+        "lat": "52.44663313946459",
+        "lng": "-2.1403598785400395"
+      },
+      "id": 73930391
+    }
+  ]
+}
