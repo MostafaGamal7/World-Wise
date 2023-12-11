@@ -6,7 +6,8 @@ import {
   useCallback,
 } from "react";
 
-const BASE_URL = "http://localhost:8000";
+// const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://cities-api-rk45.onrender.com";
 // Create Context
 const CitiesContext = createContext();
 
